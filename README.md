@@ -1,5 +1,9 @@
-fourcast
-========
+☂ fourcast
+===========
+
+[fourcast](http://fourcast.meteor.com/) is a simple, proof-of-concept foursquare app that will post a reply to your check-ins with the current hyper-local weather forecast.
+The original idea was to give you an answer to the question "Will it stop raining if I hang out here for a little longer?".
+Unfortunately, foursquare has since [retired check-in replies](https://groups.google.com/forum/#!msg/foursquare-api/rpbLHXSNtXk/k3NmcGVp_pIJ), so the app does not function currently.
 
 Deployment-specific configuration
 ----------
